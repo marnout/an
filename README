@@ -1,0 +1,10 @@
+Here is a very simple diary. Almost no lines of code. No buttons, no menus, just a simple HTML page. HTML and your browser do all the work.
+Open the file 2026.html (sorry in french) in your favourite browser and you can start entering the information you want on the date you want. Save the file and you're done.
+
+The icing on the cake is that the C programme an.c allows you to create a blank file for the next year. For example, type ./an 2027 (or any other year) and you will see 2027.html ready to use.
+
+To compile the an.c file, type:
+gcc an.c -o an
+
+
+Translated with DeepL.com (free version)

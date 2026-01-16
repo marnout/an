@@ -1,0 +1,7 @@
+Voici un agenda simplissime. Presque aucune ligne de code. Pas de boutons, pas de menus, une simple feuille HTML. C'est HTML et le navigateur qui font tout le boulot.
+Ouvrez le fichier 2026.html dans votre navigateur préféré et vous pourrez commencer à saisir les informations que vous voulez à la date que vous voulez. Enrigestrez le fichier et voilà que c'est fini.
+
+Petite cerise sur le gateau le programme C an.c permet de créer le fichier vierge de la prochaine année. Tapez par exemple ./an 2027 (ou de n'importe quelle année) et vous verrez 2027.html prêt à l'usage.
+
+Pour compiler le fichier an.c tapez :
+gcc an.c -o an
